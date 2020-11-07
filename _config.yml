@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ashutosh Mehra's Blog
+title: Neural Bagatelle
+author: Ashutosh Mehra
 description: >- # this means to ignore newlines until "baseurl:"
-  Stuff that interests me
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ashutoshmehra
@@ -31,6 +31,8 @@ github_username:  ashutoshmehra
 theme: minima
 plugins:
   - jekyll-feed
+
+rss: feed.xml
 
 # Permalink format
 permalink: /:year/:month/:day/:title
@@ -54,8 +56,5 @@ permalink: /:year/:month/:day/:title
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-site:
-  author: Ashutosh Mehra
 
 show_excerpts: true
