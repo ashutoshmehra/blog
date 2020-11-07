@@ -1,0 +1,11 @@
+<figure class="image" style="border-bottom: 2px #ced0d3 solid; margin-bottom: 24px;">
+    {% assign my_array = "" %}
+    {% assign vyear = include.url | slice: 0,4 %}
+    {% assign vmonth = include.url | slice: 4,2 %}
+    {% assign vday = include.url | slice: 6,2 %}
+    {% assign parsed_date = vyear | append: '-' | append: vmonth | append: '-' | append: vday %}
+    {% assign readable_date = parsed_date | date_to_string %}
+    {% assign descwithdate = include.amount | append: ' dated ' | append: readable_date %}
+    <img src="{{ include.url | prepend: '/assets/img/dek_checks/dek_check_' | append: '_sm.png' | relative_url }}" alt="{{ descwithdate | prepend: 'A check from Don Knuth for ' }}">
+    <figcaption>{{ descwithdate }}</figcaption>
+</figure>
