@@ -54,3 +54,8 @@ permalink: /:year/:month/:day/:title
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+site:
+  author: Ashutosh Mehra
+
+show_excerpts: true
