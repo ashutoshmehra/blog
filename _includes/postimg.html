@@ -1,4 +1,4 @@
-<figure class="image" style="display: inline-block; margin-bottom: 12px; display: block; margin-left: auto; margin-right: auto; width:min(70%, 400px);">
-    <img src="{{ include.url | prepend: '/assets/img/' | relative_url }}" alt="{{ include.desc }}" style="vertical-align: top;" />
+<figure class="image" style="display: block; margin-bottom: 12px; margin-left: auto; margin-right: auto; width:min(70%, 400px); max-width: fit-content;">
+    <img src="{{ include.url | prepend: '/assets/img/' | relative_url }}" alt="{{ include.desc }}" style="vertical-align: top; display: block; " />
     <figcaption style="text-align: center;">{{ include.desc }}</figcaption>
 </figure>
