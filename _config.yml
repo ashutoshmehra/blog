@@ -35,7 +35,11 @@ plugins:
 rss: feed.xml
 
 # Permalink format
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:title
+
+# Math support
+markdown: kramdown
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
