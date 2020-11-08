@@ -3,7 +3,8 @@ layout: post
 title: "On Asymptotic Methods in Analysis: Prof. de Bruijn's beautiful little book"
 date: 2009-05-08 16:44:33 +05:30
 categories: taocp
-description: deBruijn, de Bruijn, analysis, asymptotic, power series, book, Knuth, TAOCP, de Bruijn cycles, prefascicle, pre fascicle, fascicle, analysis of algorithms, convergence, uniform estimates
+description: In this post, I describe a few items taken from Prof. de Bruijn's book Asymptotic Methods in Analysis. A bit of background is also given.
+keywords: deBruijn, de Bruijn, analysis, asymptotic, power series, book, Knuth, TAOCP, de Bruijn cycles, prefascicle, pre fascicle, fascicle, analysis of algorithms, convergence, uniform estimates
 ---
 
 For the past several days, I've been working my way through [Prof. N.G. de Bruijn's](http://www.win.tue.nl/~wsdwnb/) book [Asymptotic Methods in Analysis](https://www.amazon.com/gp/product/0486642216/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486642216&linkCode=as2&tag=ashmehblo-20&linkId=533954d24a9f17ab36218197115e0e4b); and I want to share some of the fun I've had reading it.
