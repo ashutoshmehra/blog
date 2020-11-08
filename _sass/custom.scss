@@ -11,3 +11,22 @@
         display: inline
     }
 }
+
+blockquote {
+    color: $grey-color;
+    border-left: 4px solid $grey-color-light;
+    padding-left: $spacing-unit / 2;
+    @include relative-font-size(1.125);
+    letter-spacing: -0.5px; /* modified */
+    font-style: italic;
+  
+    > :last-child {
+      margin-bottom: 0;
+    }
+}
+
+.compact-table th, .compact-table td {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    white-space: nowrap;
+ }
