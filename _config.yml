@@ -20,7 +20,8 @@
 
 title: Neural Bagatelle
 author: Ashutosh Mehra
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
+  Things that interest me -- math, CS, programming
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ashutoshmehra
@@ -33,6 +34,10 @@ plugins:
   - jekyll-feed
 
 rss: feed.xml
+
+feed:
+  posts_limit: 100
+  excerpt_only: true
 
 # Permalink format
 permalink: /:year/:month/:title
