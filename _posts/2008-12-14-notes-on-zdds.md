@@ -7,7 +7,7 @@ description: Important ideas from Knuth’s Lecture on ZDDs (Zero suppressed bin
 keywords: Knuth, Musing, Lecture, ZDD, BDD, TAOCP, fascicle, The Art of Computer Programming, Christmas tree lecture, Minato, Bryant, notes, transcript, boolean functions, families of sets, recursive definition, memo-cache, BDD14, BDD15, exact cover, dancing links, independent sets, kernels, hypergraph algorithms 
 ---
 
-In this entry, I’ll attempt to record the important ideas Knuth presented in his [14th Annual Christmas Tree Lecture](https://www.youtube.com/watch?v=-HzQYeqS9Wc), part of his regular [Computer Musings](http://www-cs-faculty.stanford.edu/~knuth/musings.html).
+In this entry, I’ll record the important ideas Knuth presented in his [14th Annual Christmas Tree Lecture](https://www.youtube.com/watch?v=-HzQYeqS9Wc), part of his regular [Computer Musings](http://www-cs-faculty.stanford.edu/~knuth/musings.html).
 <!--more-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-HzQYeqS9Wc" frameborder="0" allow="picture-in-picture" style="display: block; margin-left: auto; margin-right: auto;" allowfullscreen></iframe>
