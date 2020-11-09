@@ -40,7 +40,7 @@ feed:
   excerpt_only: true
 
 # Permalink format
-permalink: /:year/:month/:title
+permalink: /:year/:month/:title/
 
 # Math support
 markdown: kramdown
