@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Neural Bagatelle
+title: Ashutosh Mehra's Blog
 author: Ashutosh Mehra
 description: >-
   Things that interest me -- math, CS, programming, machine learning
