@@ -28,8 +28,12 @@ Press coverage: [PCWorld - Why a "Sandbox" Makes Adobe Reader More Secure](https
 ### Research
 
 #### Patents and publications
-* Several patents applied for at the USPTO
-* Co-authored a paper on [Black-box Explanation of Object Detectors via Saliency Maps](https://arxiv.org/abs/2006.03204) (not peer reviewed)
+See my [Google Scholar profile](http://scholar.google.com/citations?user=_TeWgFQAAAAJ&hl=en)
+* Issued patents:
+    * Heading identification and classification for a digital document (US Patent 10,956,731)
+    * Identifying artifacts in digital documents (US Patent 10,949,604)
+* Publication:
+    * Black-Box Explanation of Object Detectors via Saliency Maps ([CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Petsiuk_Black-Box_Explanation_of_Object_Detectors_via_Saliency_Maps_CVPR_2021_paper.html), [website](https://cs-people.bu.edu/vpetsiuk/drise/))
 
 #### Vulnerability Research -- Bug Bounties and CVEs
 * Listed in the [Top 50 security researchers for 2015]({% link assets/img/awards/msrc_top50_2015.jpg %}) by Microsoft Security Response Center (MSRC).
