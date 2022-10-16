@@ -32,6 +32,8 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=_TeWgFQ
 * Issued patents:
     * Heading identification and classification for a digital document (US Patent 10,956,731)
     * Identifying artifacts in digital documents (US Patent 10,949,604)
+	* Document structure identification using post-processing error correction (US Patent 11,321,559)
+	* Explanatory visualizations for object detection (US Patent 11,227,159)
 * Publication:
     * Black-Box Explanation of Object Detectors via Saliency Maps ([CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Petsiuk_Black-Box_Explanation_of_Object_Detectors_via_Saliency_Maps_CVPR_2021_paper.html), [website](https://cs-people.bu.edu/vpetsiuk/drise/))
 
