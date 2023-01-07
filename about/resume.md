@@ -34,8 +34,10 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=_TeWgFQ
     * Identifying artifacts in digital documents (US Patent 10,949,604)
 	* Document structure identification using post-processing error correction (US Patent 11,321,559)
 	* Explanatory visualizations for object detection (US Patent 11,227,159)
-* Publication:
+	* Machine learning prediction and document rendering improvement based on content order (US Patent 11,508,173)
+* Publications:
     * Black-Box Explanation of Object Detectors via Saliency Maps ([CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Petsiuk_Black-Box_Explanation_of_Object_Detectors_via_Saliency_Maps_CVPR_2021_paper.html), [website](https://cs-people.bu.edu/vpetsiuk/drise/))
+	* LayerDoc: Layer-Wise Extraction of Spatial Hierarchical Structure in Visually-Rich Documents ([WACV 2023](https://openaccess.thecvf.com/content/WACV2023/html/Mathur_LayerDoc_Layer-Wise_Extraction_of_Spatial_Hierarchical_Structure_in_Visually-Rich_Documents_WACV_2023_paper.html))
 
 #### Vulnerability Research -- Bug Bounties and CVEs
 * Listed in the [Top 50 security researchers for 2015]({% link assets/img/awards/msrc_top50_2015.jpg %}) by Microsoft Security Response Center (MSRC).
