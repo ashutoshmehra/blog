@@ -11,10 +11,10 @@ I'm working on applying machine learning towards understanding the structure and
 #### Acrobat AI Assistant
 These days, I'm working on the [Acrobat AI Assistant](https://www.youtube.com/watch?v=wAT1C5eMnlo).
 From [Adobe blog](https://blog.adobe.com/en/publish/2024/02/20/adobes-next-generative-ai-frontier-digital-documents):
-> AI Assistant: AI Assistant recommends questions based on a PDF’s content and answers questions about what's in the document — all through an intuitive conversational interface.
-> Generative summary: Get a quick understanding of the content inside long documents with short overviews in easy-to-read formats.
-> Intelligent citations: Adobe’s custom attribution engine and proprietary AI generate citations so customers can easily verify the source of AI Assistant’s answers.
-> Easy navigation: Clickable links help customers quickly find what they need in long documents so they can focus their time exploring and actioning the most important information.
+> * AI Assistant: AI Assistant recommends questions based on a PDF’s content and answers questions about what's in the document — all through an intuitive conversational interface.
+> * Generative summary: Get a quick understanding of the content inside long documents with short overviews in easy-to-read formats.
+> * Intelligent citations: Adobe’s custom attribution engine and proprietary AI generate citations so customers can easily verify the source of AI Assistant’s answers.
+> * Easy navigation: Clickable links help customers quickly find what they need in long documents so they can focus their time exploring and actioning the most important information.
 
 Press coverage: [MIT Technology Review - Transforming document understanding and insights with generative AI](https://www.technologyreview.com/2024/02/20/1088584/transforming-document-understanding-and-insights-with-generative-ai/), [The Verge - Adobe Acrobat adds generative AI to ‘easily chat with documents’](https://www.theverge.com/2024/2/20/24077217/adobe-acrobat-generative-ai-assistant-chatbot-pdf-document), [Inc. - Adobe's New AI Assistant Is Designed to Read PDFs for You](https://www.inc.com/ben-sherry/adobes-new-ai-assistant-is-designed-to-read-pdfs-for-you.html), [CNBC - Adobe launches AI assistant that can search and summarize PDFs](https://www.cnbc.com/2024/02/20/adobe-launches-ai-assistant-that-can-search-and-summarize-pdfs.html).
 
