@@ -8,8 +8,6 @@ keywords: chat arena, eval, evaluation, overfitting, data contamination, leaderb
 image: /assets/img/llmchatbotarena/thumbs-up-dreamy.jpg
 ---
 
-{% include postimg.html url="llmchatbotarena/thumbs-up-dreamy.jpg" %}
-
 [LMSYS Chatbot Arena Leaderboard](https://chat.lmsys.org/?leaderboard=) offers incredible insight. The excitement when a new model jumps in the leaderboard is quite palpable. But are we reading too much into it?
 
 I think it’s important to step back to assess what these rankings *truly* imply with respect to LLM capabilities.
@@ -74,3 +72,5 @@ The Chatbot Arena Leaderboard should be one data point in model selection. Devel
 Neither of those is a substitute for what I think is most important: We should do our own evals — create our own test sets and define rubrics and metrics on what matter _for our use-case_. 
 
 Let [me](https://x.com/ashutoshmehra) know what you think.
+
+{% include postimg.html url="llmchatbotarena/thumbs-up-dreamy.jpg" %}
