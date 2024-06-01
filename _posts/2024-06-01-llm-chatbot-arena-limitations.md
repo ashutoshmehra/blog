@@ -5,7 +5,7 @@ date: 2024-06-01 15:00:05 +05:30
 categories: eval
 description: The limitations of Chatbot Arena
 keywords: chat arena, eval, evaluation, overfitting, data contamination, leaderboards
-image: /assets/img/llmchatbotarena/thumbs-up-dreamy.jpg
+image: https://ashutoshmehra.net/blog/assets/img/llmchatbotarena/thumbs-up-dreamy.jpg
 ---
 
 [LMSYS Chatbot Arena Leaderboard](https://chat.lmsys.org/?leaderboard=) offers incredible insight. The excitement when a new model jumps in the leaderboard is quite palpable. But are we reading too much into it?
