@@ -8,8 +8,18 @@ header_exclude: true
 ### Senior Principal Scientist, Adobe
 I'm working on applying machine learning towards understanding the structure and semantics of documents. Most recently, I've been working on leveraging LLMs for document-related workflows.
 
+#### PDF Spaces in Acrobat Studio
+Most recently, I've worked on [PDF Spaces in Acrobat Studio](https://www.youtube.com/watch?v=5M1a7zY5iVM).
+From the [PDF Spaces announcement](https://news.adobe.com/news/2025/08/acrobat-studio-delivers-new-ai-powered-home-for-productivity-creativity):
+> PDF Spaces — a new, dynamic work environment in Acrobat Studio — transforms collections of files and websites into conversational knowledge hubs. Individuals and teams can engage with their files using agentic AI Assistants to uncover insights, acquire recommendations, generate ideas, validate responses with precise citations and add notes they can revisit anytime.
+> AI Assistants in PDF Spaces can be assigned specific roles, like “instructor,” “analyst” or “entertainer,” to help synthesize information, answer questions and use reasoning to suggest further areas to explore. For example, a pre-built AI Assistant taking on the role of “instructor” would present information in the style a teacher would to a student. Customers can also personalize AI Assistants to take on a defined new role to fit the specific needs of their project.
+> Entire PDF Spaces, including personalized AI Assistants, can be shared with colleagues, customers and classmates. This ensures seamless collaboration by allowing recipients to interact with the same knowledge hub and extract insights effortlessly.
+
+Press coverage: [The AI Economy - Adobe Reinvents the PDF for the Age of AI](https://theaieconomy.substack.com/p/adobe-acrobat-studio-reinvents-pdf-ai), [Axios - Adobe taps AI to teach Acrobat new tricks](https://www.axios.com/2025/08/19/adobe-acrobat-generative-ai-pdf), [ZDNet - Adobe’s Acrobat Studio turns PDFs into AI-powered workspaces](https://www.zdnet.com/article/adobe-just-gave-the-pdf-its-biggest-glow-up-in-30-years/).
+
+
 #### Acrobat AI Assistant
-These days, I'm working on the [Acrobat AI Assistant](https://www.youtube.com/watch?v=wAT1C5eMnlo).
+My first shipping project involving GenAI was [Acrobat AI Assistant](https://www.youtube.com/watch?v=wAT1C5eMnlo).
 From [Adobe blog](https://blog.adobe.com/en/publish/2024/02/20/adobes-next-generative-ai-frontier-digital-documents):
 > * AI Assistant: AI Assistant recommends questions based on a PDF’s content and answers questions about what's in the document — all through an intuitive conversational interface.
 > * Generative summary: Get a quick understanding of the content inside long documents with short overviews in easy-to-read formats.

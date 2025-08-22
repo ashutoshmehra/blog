@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Ashutosh Mehra. I'm a Senior Principal Scientist at Adobe.
 
-I'm working on applying machine learning towards understanding the structure and semantics of documents and leveraging LLMs for document-related workflows for [Acrobat AI Assistant](https://www.youtube.com/watch?v=wAT1C5eMnlo).
+I'm working on applying machine learning towards understanding the structure and semantics of documents and leveraging LLMs for document-related workflows for [Acrobat AI Assistant](https://www.youtube.com/watch?v=wAT1C5eMnlo) and [PDF Spaces in Acrobat Studio](https://www.youtube.com/watch?v=5M1a7zY5iVM).
 
 Prior to that, I worked on the ML model and algorithms behind [Acrobat Liquid Mode](https://www.youtube.com/watch?v=3H4nRx7r7nY). Liquid Mode intelligently reflows PDFs (that are fixed layout documents) for smaller screens.
 
