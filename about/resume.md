@@ -54,8 +54,8 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=_TeWgFQ
 * Issued patents:
     * Heading identification and classification for a digital document (US Patent 10,956,731)
     * Identifying artifacts in digital documents (US Patent 10,949,604)
-	* Document structure identification using post-processing error correction (US Patent 11,783,610)
-	* Explanatory visualizations for object detection (US Patent 11,227,159)
+	* Document structure identification using post-processing error correction (US Patent 11,321,559, continuation US Patent 11,783,610)
+	* Explanatory visualizations for object detection (US Patent 11,227,159, continuation US Patent 12,547,895)
 	* Machine learning prediction and document rendering improvement based on content order (US Patent 11,508,173)
 	* Automatic semantic labeling of form fields with limited annotations (US Patent 11,880,648)
 	* Extracting document hierarchy using a multimodal, layer-wise link prediction neural network (US Patent 12,333,844)
